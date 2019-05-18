@@ -1,0 +1,22 @@
+C:\Users\Alisher\documents\visual studio 2010\Projects\SuperAdventure\SuperAdventure\bin\Release\SuperAdventure.exe
+C:\Users\Alisher\documents\visual studio 2010\Projects\SuperAdventure\SuperAdventure\bin\Release\SuperAdventure.pdb
+C:\Users\Alisher\documents\visual studio 2010\Projects\SuperAdventure\SuperAdventure\obj\x86\Release\SuperAdventure.Properties.Resources.resources
+C:\Users\Alisher\documents\visual studio 2010\Projects\SuperAdventure\SuperAdventure\obj\x86\Release\SuperAdventure.csproj.GenerateResource.Cache
+C:\Users\Alisher\documents\visual studio 2010\Projects\SuperAdventure\SuperAdventure\obj\x86\Release\SuperAdventure.exe
+C:\Users\Alisher\documents\visual studio 2010\Projects\SuperAdventure\SuperAdventure\obj\x86\Release\SuperAdventure.pdb
+C:\Users\Alisher\documents\visual studio 2010\Projects\SuperAdventure\SuperAdventure\obj\x86\Release\SuperAdventure.csprojResolveAssemblyReference.cache
+C:\Users\Alisher\documents\visual studio 2010\Projects\SuperAdventure\SuperAdventure\obj\x86\Release\SuperAdventure.SuperAdventure.resources
+C:\Users\Alisher\documents\visual studio 2010\Projects\SuperAdventure\SuperAdventure\bin\Release\Engine.dll
+C:\Users\Alisher\documents\visual studio 2010\Projects\SuperAdventure\SuperAdventure\bin\Release\Engine.pdb
+C:\Users\Alisher\Documents\Visual Studio 2010\Projects\курсавая\SuperAdventure\Курсавая 1.2\SuperAdventure\bin\Release\SuperAdventure.exe.config
+C:\Users\Alisher\Documents\Visual Studio 2010\Projects\курсавая\SuperAdventure\Курсавая 1.2\SuperAdventure\bin\Release\SuperAdventure.exe
+C:\Users\Alisher\Documents\Visual Studio 2010\Projects\курсавая\SuperAdventure\Курсавая 1.2\SuperAdventure\bin\Release\SuperAdventure.pdb
+C:\Users\Alisher\Documents\Visual Studio 2010\Projects\курсавая\SuperAdventure\Курсавая 1.2\SuperAdventure\bin\Release\Engine.dll
+C:\Users\Alisher\Documents\Visual Studio 2010\Projects\курсавая\SuperAdventure\Курсавая 1.2\SuperAdventure\bin\Release\Engine.pdb
+C:\Users\Alisher\Documents\Visual Studio 2010\Projects\курсавая\SuperAdventure\Курсавая 1.2\SuperAdventure\obj\x86\Release\SuperAdventure.csprojResolveAssemblyReference.cache
+C:\Users\Alisher\Documents\Visual Studio 2010\Projects\курсавая\SuperAdventure\Курсавая 1.2\SuperAdventure\obj\x86\Release\SuperAdventure.Properties.Resources.resources
+C:\Users\Alisher\Documents\Visual Studio 2010\Projects\курсавая\SuperAdventure\Курсавая 1.2\SuperAdventure\obj\x86\Release\SuperAdventure.SuperAdventure.resources
+C:\Users\Alisher\Documents\Visual Studio 2010\Projects\курсавая\SuperAdventure\Курсавая 1.2\SuperAdventure\obj\x86\Release\SuperAdventure.TradingScreen.resources
+C:\Users\Alisher\Documents\Visual Studio 2010\Projects\курсавая\SuperAdventure\Курсавая 1.2\SuperAdventure\obj\x86\Release\SuperAdventure.csproj.GenerateResource.Cache
+C:\Users\Alisher\Documents\Visual Studio 2010\Projects\курсавая\SuperAdventure\Курсавая 1.2\SuperAdventure\obj\x86\Release\SuperAdventure.exe
+C:\Users\Alisher\Documents\Visual Studio 2010\Projects\курсавая\SuperAdventure\Курсавая 1.2\SuperAdventure\obj\x86\Release\SuperAdventure.pdb

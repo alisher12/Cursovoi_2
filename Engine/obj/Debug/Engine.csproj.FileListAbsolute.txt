@@ -1,0 +1,20 @@
+C:\Users\Alisher\documents\visual studio 2010\Projects\SuperAdventure\Engine\bin\Debug\Engine.dll
+C:\Users\Alisher\documents\visual studio 2010\Projects\SuperAdventure\Engine\bin\Debug\Engine.pdb
+C:\Users\Alisher\documents\visual studio 2010\Projects\SuperAdventure\Engine\obj\Debug\Engine.dll
+C:\Users\Alisher\documents\visual studio 2010\Projects\SuperAdventure\Engine\obj\Debug\Engine.pdb
+C:\Users\Alisher\documents\visual studio 2010\Projects\SuperAdventure\Engine\obj\Debug\Engine.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\Visual Studio 2010\Projects\SuperAdventure\Engine\bin\Debug\Engine.dll
+C:\Users\User\Documents\Visual Studio 2010\Projects\SuperAdventure\Engine\bin\Debug\Engine.pdb
+C:\Users\User\Documents\Visual Studio 2010\Projects\SuperAdventure\Engine\obj\Debug\Engine.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\Visual Studio 2010\Projects\SuperAdventure\Engine\obj\Debug\Engine.dll
+C:\Users\User\Documents\Visual Studio 2010\Projects\SuperAdventure\Engine\obj\Debug\Engine.pdb
+C:\Users\Alisher\Documents\Visual Studio 2010\Projects\курсавая\SuperAdventure\Engine\bin\Debug\Engine.dll
+C:\Users\Alisher\Documents\Visual Studio 2010\Projects\курсавая\SuperAdventure\Engine\bin\Debug\Engine.pdb
+C:\Users\Alisher\Documents\Visual Studio 2010\Projects\курсавая\SuperAdventure\Engine\obj\Debug\Engine.csprojResolveAssemblyReference.cache
+C:\Users\Alisher\Documents\Visual Studio 2010\Projects\курсавая\SuperAdventure\Engine\obj\Debug\Engine.dll
+C:\Users\Alisher\Documents\Visual Studio 2010\Projects\курсавая\SuperAdventure\Engine\obj\Debug\Engine.pdb
+C:\Users\Alisher\Documents\Visual Studio 2010\Projects\курсавая\SuperAdventure\Курсавая 1.2\Engine\obj\Debug\Engine.csprojResolveAssemblyReference.cache
+C:\Users\Alisher\Documents\Visual Studio 2010\Projects\курсавая\SuperAdventure\Курсавая 1.2\Engine\obj\Debug\Engine.dll
+C:\Users\Alisher\Documents\Visual Studio 2010\Projects\курсавая\SuperAdventure\Курсавая 1.2\Engine\bin\Debug\Engine.dll
+C:\Users\Alisher\Documents\Visual Studio 2010\Projects\курсавая\SuperAdventure\Курсавая 1.2\Engine\bin\Debug\Engine.pdb
+C:\Users\Alisher\Documents\Visual Studio 2010\Projects\курсавая\SuperAdventure\Курсавая 1.2\Engine\obj\Debug\Engine.pdb

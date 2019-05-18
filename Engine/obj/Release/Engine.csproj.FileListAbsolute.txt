@@ -1,0 +1,9 @@
+C:\Users\Alisher\documents\visual studio 2010\Projects\SuperAdventure\Engine\bin\Release\Engine.dll
+C:\Users\Alisher\documents\visual studio 2010\Projects\SuperAdventure\Engine\bin\Release\Engine.pdb
+C:\Users\Alisher\documents\visual studio 2010\Projects\SuperAdventure\Engine\obj\Release\Engine.dll
+C:\Users\Alisher\documents\visual studio 2010\Projects\SuperAdventure\Engine\obj\Release\Engine.pdb
+C:\Users\Alisher\Documents\Visual Studio 2010\Projects\курсавая\SuperAdventure\Курсавая 1.2\Engine\bin\Release\Engine.dll
+C:\Users\Alisher\Documents\Visual Studio 2010\Projects\курсавая\SuperAdventure\Курсавая 1.2\Engine\bin\Release\Engine.pdb
+C:\Users\Alisher\Documents\Visual Studio 2010\Projects\курсавая\SuperAdventure\Курсавая 1.2\Engine\obj\Release\Engine.csprojResolveAssemblyReference.cache
+C:\Users\Alisher\Documents\Visual Studio 2010\Projects\курсавая\SuperAdventure\Курсавая 1.2\Engine\obj\Release\Engine.dll
+C:\Users\Alisher\Documents\Visual Studio 2010\Projects\курсавая\SuperAdventure\Курсавая 1.2\Engine\obj\Release\Engine.pdb
